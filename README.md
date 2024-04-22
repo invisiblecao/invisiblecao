@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @invisiblecao
 - 🚩 Based in Hong Kong
 - 👀 I’m interested in Blockchain/Web3.0/Crypto/Data Science
-- 🌱 I’m currently pursuing a master degree at __*The University of Hong Kong(HKU)*__.
-- 👾 Have finished my undergrad at __*Hong Kong Baptist University(HKBU)*__.
-- 📫 Email me at: kepancao@connect.hku.hk
+- 👨🏻‍💻 AI developer @ __*The University of Hong Kong*__.
+- 👾 Have finished my undergrad at __*Hong Kong Baptist University(HKBU)*__, postgrad at __*The University of Hong Kong*__.
+- 📫 Email me: kpcao@hku.hk.
 - 🫡 A former math & stat major student struggling to learn coding.
 - 🙌 Exploring the world.
 <!---
